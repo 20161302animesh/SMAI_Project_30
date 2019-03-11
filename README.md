@@ -8,6 +8,9 @@
 - **Team name**: Random_team_0
 - **Project title**: Detecting rumor and stance (bias) jointly by Neural Multi-Task Learning
 
+### Git reference:
+- Link: https://github.com/baymaxneoxys/SMAI_Project_30.git
+
 ### Team Members
 - Animesh Das (20161302)
 - Ali Hussaini (20161204)

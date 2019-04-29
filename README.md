@@ -42,3 +42,6 @@
 - Model build: Not yet decided.
 - Testing phase: Not yet decided.
 
+### Presentation Link (Google Slides)
+- Link: https://docs.google.com/presentation/d/16EOleJeku4N8eQQ_u25_VRae-oDv932Fn_C2r34c3oM/edit?usp=sharing
+
